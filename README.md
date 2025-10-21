@@ -33,7 +33,7 @@ Note: Ensure you have a compatible audio device for sounddevice. For GPU acceler
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/samhith153/Emotion-Recognition-Using-Multimodal-Fusion-Audio-Video-.git
    cd Emotion-Recognition-Using-Multimodal-Fusion-Audio-Video-
    ```
 
